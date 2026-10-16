@@ -1,0 +1,10 @@
+{
+  "name": "Zentrix AI",
+  "description": "Futuristic AI-powered career growth platform with resume intelligence, mock voice interviews, GitHub & DSA analytics, multi-agent guidance, and placement readiness.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
